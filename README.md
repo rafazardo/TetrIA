@@ -3,7 +3,7 @@ O objetivo deste projeto foi desenvolver um sistema autônomo capaz de jogar o v
 
 Este repositório contém o projeto final apresentado na disciplina de Inteligência Artificial I (INF 420), ministrada pelo professor Julio C. S. Reis. O projeto foi desenvolvido como requisito parcial para aprovação na disciplina.
 
-# Detalhes da Implementação
+# Detalhes do Algoritmo Genético
 Para uma explicação mais detalhada, recomendamos que você visite o artigo elaborado sobre o projeto. O artigo pode ser acessado no seguinte link: [Artigo sobre o Projeto](https://github.com/rafazardo/TetrIA/blob/main/Desenvolvimento_de_um_sistema_de_inteligencia_artificial_para_obter_altas_pontuacoes_no_Tetris_utilizando_algoritmo_genetico.pdf).
 
 # Como executar
