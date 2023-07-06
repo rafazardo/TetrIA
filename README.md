@@ -31,7 +31,7 @@ Peso para as Sombras: 0.951676843485697
 3. Execute o programa com o comando "python TetrIA_Individuo.py".
 
 ### Instruções para executar o "TetrIA_Populacao.py":
-Nesta implementação, você pode ver o algoritmo genético em ação. Ele evolui uma população de indivíduos do jogo Tetris ao longo de várias gerações. Durante a execução, você pode configurar parâmetros como o tamanho da população, o número de jogos por indivíduo e o número de gerações. O algoritmo seleciona os melhores indivíduos de cada geração para reprodução, aplicando cruzamento e mutação. Ao final da execução, os resultados são registrados em um arquivo chamado "resultados.txt". Experimente diferentes configurações para ver como o desempenho evolui ao longo do tempo.
+Nesta implementação, você pode ver o algoritmo genético em ação. Ele evolui uma população de indivíduos do jogo Tetris ao longo de várias gerações. Antes da execução, você pode configurar parâmetros como o tamanho da população, o número de jogos por indivíduo e o número de gerações. O algoritmo seleciona os melhores indivíduos de cada geração para reprodução, aplicando cruzamento e mutação. Ao final da execução, os resultados são registrados em um arquivo chamado "resultados.txt". Experimente diferentes configurações para ver como o desempenho evolui ao longo do tempo.
 
 1. Acesse a pasta "inputs" e abra o arquivo "populacao.txt".
 2. Insira os valores desejados referentes aos parâmetros do algoritmo genético, conforme exemplo abaixo: <br>
