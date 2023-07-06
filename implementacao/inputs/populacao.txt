@@ -1,0 +1,4 @@
+Tamanho da população: 4
+Número de jogos do indivíduo: 1
+Número de gerações: 2
+Taxa de mutação: 0.1

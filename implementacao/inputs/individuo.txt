@@ -1,0 +1,6 @@
+Peso Número de Buracos: 0.5764343247818454
+Peso Rugosidade: 0.09973954062855961
+Peso Linhas Limpas no Topo: 0.7934715772414589
+Peso Linhas Limpas Embaixo: 0.16871021668664132
+Peso Altura: 0.03334951194142333
+Peso Sombras: 0.951676843485697
